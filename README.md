@@ -13,5 +13,6 @@ Code is next to this .md file
 
 Following images shows the Dag, this time not found mails to process
 
-![image](https://user-images.githubusercontent.com/5835040/116142682-d21c1a00-a69f-11eb-9945-df9f6e592e37.png)
+![image](https://user-images.githubusercontent.com/5835040/116143721-19ef7100-a6a1-11eb-8302-d3e78147e143.png)
+
 
