@@ -4,10 +4,10 @@ This app get some filtered mails to a dwh - Snowflake
 
 The steps condidered are:
 
-1.Get from mailbox the filtered mails
-2.convert from xlsx to csv
-3.Move to S3 - Aws datalake
-4.Move to Snowflake datalake
+1. Get from mailbox the filtered mails
+2. convert from xlsx to csv
+3. Move to S3 - Aws datalake
+4. Move to Snowflake datalake
 
 Code is next to this .md file
 
